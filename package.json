@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.0",
-    "validator": "^10.0.0"
+    "validator": "^12.2.0"
   }
 }
